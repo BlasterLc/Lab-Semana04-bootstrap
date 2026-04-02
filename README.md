@@ -6,7 +6,7 @@ Sitio web desarrollado con Bootstrap 5, que presenta al equipo **Los HTML** de I
 
 ## 🌐 Demo en vivo
 
-https://blasterlc.github.io/bootstrap-lab/
+https://blasterlc.github.io/Lab-Semana04-bootstrap/
 
 ## Integrantes
 
